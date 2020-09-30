@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://aymeric-mcrae.github.io/images/phys.png?raw=true" alt="Photo" style="width: 450px;"/> 
-</p> -->
+</p>
 
 # About Me
 * I am a research intern at [Mila](https://mila.quebec/en/), the Quebec Artificial Intelligence Institute, working in the lab of Prof. [Sarath Chandar](http://sarathchandar.in/).
